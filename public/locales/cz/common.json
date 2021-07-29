@@ -1,0 +1,91 @@
+{
+  "app": {
+    "title": "Pirátský rozcestník"
+  },
+  "pages": {
+    "home": {
+      "title": "Úvod"
+    },
+    "links": {
+      "title": "Rozcestník",
+      "partiesByStates": "Pirátské strany dle států"
+    },
+    "parties": {
+      "fbGroups": "Facebook skupiny",
+      "fbPages": "Facebook stránky",
+      "webSystems": "Pirátské systémy",
+      "subParties": "Podřazená sdružení",
+      "superParty": "Nadřazené sdružení",
+      "unofficialInitiatives": "Neoficiální iniciativy",
+      "otherLinks": "Další odkazy"
+    },
+    "projects": {
+      "title": "Projekty"
+    },
+    "terms": {
+      "title": "Podmínky užití"
+    }
+  },
+  "states": {
+    "cz": "Česko",
+    "sk": "Slovensko",
+    "pl": "Polsko",
+    "at": "Rakousko",
+    "eu": "Evropská unie",
+    "by": "Bělorusko",
+    "ba": "Bosna a Hercegovina",
+    "br": "Brazílie",
+    "bg": "Bulharsko",
+    "cat": "Katalánsko",
+    "cl": "Chile",
+    "ee": "Estonsko",
+    "fr": "Francie",
+    "de": "Německo",
+    "gr": "Řecko",
+    "hu": "Maďarsko",
+    "il": "Izrael",
+    "it": "Itálie",
+    "se": "Švédsko",
+    "ca": "Kanada",
+    "is": "Island",
+    "au": "Austrálie",
+    "be": "Belgie",
+    "uk": "Velká Británie"
+  },
+  "parties": {
+    "cz": "Česká pirátská strana",
+    "sk": "Pirátska strana – Slovensko",
+    "pl": "Polská pirátská strana",
+    "at": "Rakouská pirátská strana (piratenpartei)",
+    "eu": "Evropská pirátská strana",
+    "international": "Internacionála pirátských stran",
+    "by": "Pirátské centrum Běloruska",
+    "ba": "Pirátská strana Bosny a Hercegoviny",
+    "br": "Pirátská strana Brazílie",
+    "bg": "Pirátská strana Bulharska",
+    "cat": "Pirátská strana Katalánska",
+    "cl": "Pirátská strana Chile",
+    "ee": "Estonská pirátská strana",
+    "fr": "Pirátská strana Francie",
+    "de": "Pirátská strana Německo",
+    "gr": "Pirátská strana Řecka",
+    "hu": "Pirátská strana Maďarska",
+    "il": "Pirátská strana Izraele",
+    "it": "Italská Pirátská strana",
+    "se": "Pirate Party (Švédsko)",
+    "ca": "Pirátská strana Kanady",
+    "is": "Pirátská strana (Island)",
+    "au": "Pirátská strana Austrálie",
+    "be": "Pirátská strana (Belgie)",
+    "uk": "Pirátská strana UK",
+    "pwb": "Piráti bez hranic"
+  },
+  "notices": {
+    "notPolitical": "Tento web není řízen Pirátskou stranou, ani jinou politickou stranou."
+  },
+  "footer": {
+    "codeLicense": "Licence kódu",
+    "textContent": "textový obsah",
+    "ifNotSpecified": "pokud není uvedeno"
+  }
+}

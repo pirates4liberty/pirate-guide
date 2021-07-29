@@ -1,0 +1,39 @@
+{
+  "name": "pirates-guide",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "postbuild": "next-sitemap",
+    "start": "next start",
+    "g:assets": "rm -rf public/img/pwa/g && pwa-asset-generator public/img/pwa/pirates_square.svg public/img/pwa/g --background \\\"#ffffff\\\" --opaque false --manifest public/manifest.json --favicon false --xhtml --portrait-only --icon-only"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "autoprefixer": "^9.8.6",
+    "bootstrap": "^4.6.0",
+    "next": "10.2.0",
+    "next-i18next": "^8.3.0",
+    "next-pwa": "^5.2.21",
+    "next-sitemap": "^1.6.80",
+    "node-sass": "^5.0.0",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^6.7.0",
+    "pwa-asset-generator": "^4.1.1",
+    "react": "17.0.2",
+    "react-bootstrap": "^1.6.0",
+    "react-dom": "17.0.2",
+    "rss-parser": "^3.12.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.8",
+    "@types/react-dom": "^17.0.5",
+    "typescript": "^4.2.4"
+  }
+}
