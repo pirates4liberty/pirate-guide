@@ -1,5 +1,5 @@
 import React, { CSSProperties, ReactNode } from "react";
-import { CssColor } from "../../types/CssColor";
+import { CssColor } from "../../../types/CssColor";
 import LinkExternal from "../LinkExternal";
 import LinkInternal from "../LinkInternal";
 
