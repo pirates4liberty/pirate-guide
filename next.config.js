@@ -5,9 +5,7 @@ const isProduction = (process.env.NODE_ENV === 'production');
 
 module.exports = withPWA({
     i18n,
-    future: {
-        webpack5: true,
-    },
+    webpack5: true,
     pwa: {
         dest: 'public',
         disable: !isProduction
