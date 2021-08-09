@@ -10,7 +10,7 @@
     "g:assets": "rm -rf public/img/pwa/g && pwa-asset-generator public/img/pwa/pirates_square.svg public/img/pwa/g --background \\\"#ffffff\\\" --opaque false --manifest public/manifest.json --favicon false --xhtml --portrait-only --icon-only"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/free-regular-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
